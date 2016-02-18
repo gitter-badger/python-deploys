@@ -1,6 +1,8 @@
 Python TravisCI Deploys
 ======
 
+[![Join the chat at https://gitter.im/jsvgoncalves/python-deploys](https://badges.gitter.im/jsvgoncalves/python-deploys.svg)](https://gitter.im/jsvgoncalves/python-deploys?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Testing out TravisCI deployments.
 
 Development
